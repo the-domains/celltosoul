@@ -1,0 +1,28 @@
+name: celltosoul
+favicon: null
+layout_spectrum: 0.02056684740819037
+typography_spectrum: 0.7580113138537854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.13825640035793185
+  lightness: 0.3554671367164701
+  saturation: 0.24020036635920405
+  rhythmicContrast: 0.06537409173324704
+purpose: []
