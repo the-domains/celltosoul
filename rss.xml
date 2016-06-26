@@ -4,7 +4,7 @@
         <description><![CDATA[celltosoul]]></description>
         <link>https://thegrid.ai/celltosoul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 00:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 00:19:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/celltosoul/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cell to Soul Vitality]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/celltosoul/cell-to-soul-vitality/index.html</link>
             <guid isPermaLink="false">04be59ff-23ba-41b3-9108-ac009891ac39</guid>
             <pubDate>Sun, 26 Jun 2016 00:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Cell to Soul Vitality</p>]]></description>
+            <link>https://thegrid.ai/celltosoul/cell-to-soul-vitality/index.html</link>
+            <guid isPermaLink="false">d1e72b68-33f9-411a-9b6b-25891464a7e1</guid>
+            <pubDate>Sun, 26 Jun 2016 00:19:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
