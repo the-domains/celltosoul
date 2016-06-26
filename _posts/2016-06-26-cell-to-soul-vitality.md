@@ -4,17 +4,22 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Cell to Soul Vitality
-datePublished: '2016-06-26T00:19:23.980Z'
-dateModified: '2016-06-26T00:19:23.685Z'
+description: >-
+  Launching a new site to contain all goodness and resources for Awakening Cell
+  to Soul. 
+datePublished: '2016-06-26T00:27:20.188Z'
+dateModified: '2016-06-26T00:27:19.559Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-26-cell-to-soul-vitality.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-26-cell-to-soul-vitality.md
+starred: true
 url: cell-to-soul-vitality/index.html
 _type: Article
 
 ---
-Cell to Soul Vitality
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/844afa59-e19a-4ccf-9357-bdb84bf825e6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/749e8782-8987-4585-8488-58f8811cc01f.jpg)
+
+Launching a new site to contain all goodness and resources for Awakening Cell to Soul.
